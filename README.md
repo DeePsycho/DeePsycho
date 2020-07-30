@@ -1,4 +1,4 @@
-# Dark-ISI
+# Dark-DeePsycho
 pkg update 
 
 pkg upgrade
